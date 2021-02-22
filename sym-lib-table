@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name phocuser-rescue)(type Legacy)(uri ${KIPRJMOD}/phocuser-rescue.lib)(options "")(descr ""))
+)
